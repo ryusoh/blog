@@ -920,15 +920,15 @@ td {
   }
   a .fa-home,
   a .fa-search,
-  a .fa-puzzle-piece {
+  a .fa-backward {
     color: var(--font-color);
   }
   a:focus .fa-home,
   a:hover .fa-home,
   a:focus .fa-search,
   a:hover .fa-search,
-  a:focus .fa-puzzle-piece,
-  a:hover .fa-puzzle-piece {
+  a:focus .fa-backward,
+  a:hover .fa-backward {
     color: var(--link-color);
   }
   body {
