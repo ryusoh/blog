@@ -278,12 +278,11 @@ nav {
 }
 .post-preview > a > .post-title {
   float: left;
-  width: 100%;
+  width: 50%;
   height: 100%;
-  font-size: 2em;
+  font-size: 1.5em;
   margin: 21px 0;
   word-wrap: break-word;
-  overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
   -webkit-line-clamp: 2;
