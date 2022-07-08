@@ -21,6 +21,8 @@ nav,
   font-family: 'Noto Serif', 'Times New Roman', serif;
 }
 .sans-serif,
+body,
+html,
 h1,
 h2,
 h3,
@@ -111,7 +113,6 @@ html {
   width: 100%;
   font-size: 18px;
   color: #4d4d4d;
-  font: Noto;
 }
 p {
   letter-spacing: 0.1px;
