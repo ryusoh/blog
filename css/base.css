@@ -11,8 +11,6 @@
   -o-background-size: cover;
 }
 .serif,
-body,
-html,
 h1,
 h2,
 h3,
@@ -28,7 +26,9 @@ nav,
 .pagiantion li > span {
   font-family: 'Noto Serif', 'Times New Roman', serif;
 }
-.sans-serif {
+.sans-serif,
+body,
+html {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .animation,

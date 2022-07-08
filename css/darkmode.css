@@ -6,15 +6,12 @@
     --line-color: #161d27;
   }
   a .fa-home,
-  a .fa-search,
   a .fa-chevron-left {
     color: var(--font-color);
     font-size: xxx-large;
   }
   a:focus .fa-home,
   a:hover .fa-home,
-  a:focus .fa-search,
-  a:hover .fa-search,
   a:focus .fa-chevron-left,
   a:hover .fa-chevron-left {
     color: var(--link-color);
