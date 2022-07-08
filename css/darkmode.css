@@ -9,7 +9,7 @@
   a .fa-search,
   a .fa-chevron-left {
     color: var(--font-color);
-    font-size: large;
+    font-size: xx-large;
   }
   a:focus .fa-home,
   a:hover .fa-home,
