@@ -224,7 +224,7 @@ nav {
   line-height: 1.1;
   display: block;
   font-size: 24px;
-  margin: 10px 0 30px;
+  margin: 10px 0 10px;
   font-weight: 600;
 }
 @media only screen and (min-width: 768px) {
