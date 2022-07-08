@@ -922,6 +922,7 @@ td {
   a .fa-search,
   a .fa-chevron-left {
     color: var(--font-color);
+    font-size: large;
   }
   a:focus .fa-home,
   a:hover .fa-home,
