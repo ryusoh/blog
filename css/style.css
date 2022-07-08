@@ -918,13 +918,13 @@ td {
     --link-color: #a7dfe4;
     --line-color: #161d27;
   }
-  a .fa-camera-retro,
+  a .fa-home,
   a .fa-search,
   a .fa-puzzle-piece {
     color: var(--font-color);
   }
-  a:focus .fa-camera-retro,
-  a:hover .fa-camera-retro,
+  a:focus .fa-home,
+  a:hover .fa-home,
   a:focus .fa-search,
   a:hover .fa-search,
   a:focus .fa-puzzle-piece,
