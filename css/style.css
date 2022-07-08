@@ -932,6 +932,13 @@ td {
   a:hover .fa-chevron-left {
     color: var(--link-color);
   }
+  a .fa-search {
+    color: var(--font-color);
+  }
+  a:focus .fa-search,
+  a:hover .fa-search {
+    color: var(--link-color);
+  }
   body {
     color: var(--font-color);
     background: var(--bg-color);
