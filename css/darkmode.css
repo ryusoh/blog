@@ -7,15 +7,15 @@
   }
   a .fa-home,
   a .fa-search,
-  a .fa-backward {
+  a .fa-chevron-left {
     color: var(--font-color);
   }
   a:focus .fa-home,
   a:hover .fa-home,
   a:focus .fa-search,
   a:hover .fa-search,
-  a:focus .fa-backward,
-  a:hover .fa-backward {
+  a:focus .fa-chevron-left,
+  a:hover .fa-chevron-left {
     color: var(--link-color);
   }
   body {
