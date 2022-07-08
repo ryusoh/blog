@@ -604,7 +604,7 @@ article .container .row .video-container embed {
   margin-top: 0;
 }
 article .container .row blockquote {
-  font-family: sans-serif;
+  font-family: "Georgia", serif;
   font-size: 1em;
   padding: 3px 30px 15px;
   color: rgba(115,115,115,0.9);
