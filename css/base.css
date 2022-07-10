@@ -243,6 +243,7 @@ nav {
   padding-left: 0.6em;
   font-size: 1em;
   line-height: 1.2;
+  word-wrap: break-word;
   text-overflow: ellipsis;
   overflow: hidden;
   display: -webkit-box;
