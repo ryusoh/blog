@@ -246,7 +246,7 @@ nav {
   line-height: 1.2;
   text-overflow: ellipsis;
   display: -webkit-flex;
-  height: 100%;
+  max-height: 50em;
 }
 .post-preview blockquote {
   margin-left: 36%;
