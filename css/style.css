@@ -244,6 +244,8 @@ nav {
   padding-left: 0.6em;
   font-size: 1.1em;
   line-height: 1.5;
+  text-overflow: ellipsis;
+  display: -webkit-box;
 }
 .post-preview blockquote {
   margin-left: 36%;
@@ -255,8 +257,6 @@ nav {
 .post-preview blockquote p {
   margin: 0;
   padding: 0;
-  text-overflow: ellipsis;
-  display: -webkit-box;
 }
 .post-preview > a {
   width: 100%;
