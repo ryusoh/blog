@@ -247,7 +247,7 @@ nav {
   text-overflow: ellipsis;
   overflow: hidden;
   display: table;
-  -webkit-line-clamp: 5;
+  max-lines: 7;
 }
 .post-preview blockquote {
   margin-left: 36%;
