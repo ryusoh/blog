@@ -245,7 +245,7 @@ nav {
   line-height: 1.2;
   text-overflow: ellipsis;
   overflow: hidden;
-  display: -webkit-flex;
+  display: -webkit-box;
   -webkit-line-clamp: 5;
 }
 .post-preview blockquote {
