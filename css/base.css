@@ -247,7 +247,7 @@ nav {
   text-overflow: ellipsis;
   overflow: hidden;
   display: -webkit-box;
-  -webkit-line-clamp: 8;
+  -webkit-line-clamp: 10;
   -webkit-box-orient: vertical;
 }
 .post-preview blockquote {
@@ -283,6 +283,7 @@ nav {
   word-wrap: break-word;
   display: -webkit-box;
   -webkit-box-orient: vertical;
+  -webkit-line-clamp: 5;
 }
 .post-preview > a > .post-title.archive {
   font-size: 22px;
