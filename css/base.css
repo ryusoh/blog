@@ -254,6 +254,7 @@ nav {
 .post-preview blockquote p {
   margin: 0;
   padding: 0;
+  text-overflow: ellipsis;
 }
 .post-preview > a {
   width: 100%;
