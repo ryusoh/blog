@@ -241,7 +241,7 @@ nav {
 .post-preview p {
   margin-left: 36%;
   padding-left: 0.6em;
-  font-size: 1.1em;
+  font-size: 1em;
   line-height: 1.2;
   text-overflow: ellipsis;
   display: -webkit-flex;
