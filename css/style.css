@@ -247,8 +247,9 @@ nav {
   word-wrap: break-word;
   text-overflow: ellipsis;
   overflow: hidden;
-  display: table;
-  max-lines: 8;
+  display: -webkit-box;
+  -webkit-line-clamp: 8;
+  -webkit-box-orient: vertical;
 }
 .post-preview blockquote {
   margin-left: 36%;
@@ -281,7 +282,7 @@ nav {
   font-size: 1.5em;
   margin: 17px 0;
   word-wrap: break-word;
-  display: table;
+  display: -webkit-box;
   -webkit-box-orient: vertical;
 }
 .post-preview > a > .post-title.archive {
