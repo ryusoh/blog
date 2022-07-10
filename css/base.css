@@ -244,6 +244,7 @@ nav {
   font-size: 1em;
   line-height: 1.2;
   text-overflow: ellipsis;
+  overflow: hidden;
   display: -webkit-flex;
   max-height: 8em;
 }
