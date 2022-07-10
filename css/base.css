@@ -255,6 +255,7 @@ nav {
   margin: 0;
   padding: 0;
   text-overflow: ellipsis;
+  display: -webkit-box;
 }
 .post-preview > a {
   width: 100%;
