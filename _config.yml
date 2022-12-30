@@ -108,7 +108,7 @@ deploy:
   branch: main
 
 backup:
-  theme: hollow
+  type: git
   message: "backup source files"
   repository:
     github: git@github.com:ryusoh/ryusoh.github.io.git,backup
