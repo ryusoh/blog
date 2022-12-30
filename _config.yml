@@ -111,4 +111,4 @@ backup:
   type: git
   message: "backup source files"
   repository:
-    github: git@github.com:ryusoh/ryusoh.github.io.git,backup
+    github: git@github.com:ryusoh/blog.git,backup
