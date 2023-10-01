@@ -1,7 +1,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg-color: #282828;
-    --font-color: #94a1b4;
+    --bg-color: #000;
+    --font-color: #fff;
     --link-color: #a7dfe4;
     --line-color: #161d27;
   }
