@@ -94,7 +94,7 @@
 article .container .row img {
   position: relative;
   margin: 30px auto;
-  max-width: 75% !important;
+  max-width: 100% !important;
   height: auto;
   display: inline-block;
 }
