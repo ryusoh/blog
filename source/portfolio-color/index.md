@@ -3,7 +3,7 @@ title: I DO NOT CARE IF WE GO DOWN IN HISTORY AS BARBARIANS
 date: 2024-01-31 01:02:19
 ---
 
-“I Do Not Care If We Go Down in History as Barbarians” is a long-standing street photography project dedicated to capturing and encapsulating the vanity, bewilderment, angst, and pain of the time we live in, intertwining with culture and zeitgeist of the modern-day SFBA and the photographer’s own weltanschauung, prise de risque, and upbringing. To carry out the project, Zhuang has been extensively and relentlessly pounding the pavements of San Francisco, San Jose, and beyond. Zhuang seeks to draw from the characters, the scenes, and the light in the photographs to articulate a statement, to make some noise, and to celebrate worlds that often go unseen. 
+“I Do Not Care If We Go Down in History as Barbarians” is a long-standing street photography project dedicated to capturing and encapsulating the vanity, bewilderment, angst, and pain of the time we live in, intertwining with culture and zeitgeist of the modern-day SFBA and the photographer’s own weltanschauung, prise de risque, and upbringing. To carry out the project, Zhuang has been extensively and relentlessly pounding the pavements of San Francisco, San Jose, and beyond. Zhuang seeks to draw from the characters, the scenes, and the light in the photographs to articulate a statement, to make some noise, and to celebrate worlds that often go unseen.
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/ryusoh/imagehost@master/DSCF4295-2.JPG">
