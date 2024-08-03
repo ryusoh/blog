@@ -96,8 +96,9 @@ body,
 html {
   width: 100%;
   font-size: 18px;
-  color: #000;
+  color: #fff;
   font-family: Futura;
+  background: #000;
 }
 p {
   letter-spacing: 0.1px;
@@ -148,7 +149,7 @@ a.nav-back {
   position: absolute;
   top: 15px;
   left: 15px;
-  color: rgba(0,0,0,0.5);
+  color: #fff;
   z-index: 99;
 }
 a.nav-back:hover,
@@ -213,6 +214,7 @@ nav {
 }
 .intro-header .post-heading h1 {
   font-size: 40px;
+  color: #fff;
 }
 .intro-header .post-heading .subheading {
   line-height: 1.1;
