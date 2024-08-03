@@ -23,12 +23,12 @@ local_search: true
 
 # using viewer.js to view image
 # https://fengyuanchen.github.io/viewerjs/
-image_viewer: true
+image_viewer: false
 
 # Table of content
 # Maybe support more toc style in future.
 toc:
-  enable: true
+  enable: false
 
 home: /blog/
 archives: /blog/archives
