@@ -92,19 +92,27 @@
     opacity: 1;
   }
 }
+@font-face {
+  font-family: 'P22 Underground Pro Thin';
+/* Path relative to the CSS directory (e.g., source/css/) */
+  src: url("../fonts/p22undergroundpro-thin-webfont.woff") format('woff');
+}
 body,
 html {
   width: 100%;
-  font-size: 18px;
+  font-size: 20px;
   color: #fff;
-  font-family: Futura;
+  font-family: "P22 Underground Pro Thin", Futura, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: 2.5px;
   background: #000;
 }
 p {
-  letter-spacing: 0.1px;
+  letter-spacing: 0.5px;
   line-height: 1.2;
   margin: 15px 0;
-  font-weight: lighter;
+  font-family: "P22 Underground Pro Thin";
+  font-weight: 100;
 }
 p a {
   text-decoration: underline;
@@ -112,15 +120,15 @@ p a {
 h1,
 h2,
 h3 {
-  font-family: Futura;
-  font-weight: 800;
+  font-family: "P22 Underground Pro Thin";
+  font-weight: 400;
   margin: 32px 0 20px;
 }
 h4,
 h5,
 h6 {
-  font-family: Futura;
-  font-weight: 500;
+  font-family: "P22 Underground Pro Thin";
+  font-weight: 100;
   margin: 20px 0;
 }
 a {
