@@ -585,7 +585,7 @@ article .container .row img {
 }
 @media only screen and (max-width: 768px) {
   article .container .row img {
-    max-width: 90% !important;
+    max-width: 100% !important;
   }
 }
 article .container .row .video-container {
