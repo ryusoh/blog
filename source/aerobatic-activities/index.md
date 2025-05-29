@@ -22,5 +22,12 @@ The street photography series Aerobatic Activities presents a sophisticated visu
 <img src="https://ghproxy.net/https://raw.githubusercontent.com/ryusoh/host/master/images/DSCF3579.JPG">
 <img src="https://ghproxy.net/https://raw.githubusercontent.com/ryusoh/host/master/images/aerobatic-activities/DSCF7318-3.jpg">
 <img src="https://ghproxy.net/https://raw.githubusercontent.com/ryusoh/host/master/images/aerobatic-activities/DSCF5759-5.jpg">
+
+---
+I've been laying
+Waiting for your next mistake
+
+---
+
 <img src="https://ghproxy.net/https://raw.githubusercontent.com/ryusoh/host/master/images/aerobatic-activities/DSCF5719-3.jpg">
 </div>
