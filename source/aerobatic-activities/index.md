@@ -26,7 +26,6 @@ The street photography series Aerobatic Activities presents a sophisticated visu
 ---
 I've been laying
 Waiting for your next mistake
-
 ---
 
 <img src="https://ghproxy.net/https://raw.githubusercontent.com/ryusoh/host/master/images/aerobatic-activities/DSCF5719-3.jpg">
